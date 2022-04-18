@@ -1,0 +1,22 @@
+{
+  "name": "inbox-smart-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mektigboy/Inbox-Smart-Contract.git"
+  },
+  "author": "mektigboy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mektigboy/Inbox-Smart-Contract/issues"
+  },
+  "homepage": "https://github.com/mektigboy/Inbox-Smart-Contract#readme",
+  "dependencies": {
+    "solc": "^0.4.17"
+  }
+}
