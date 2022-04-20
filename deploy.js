@@ -3,6 +3,7 @@ const Web3 = require('web3');
 const { interface, byteface } = require('./complile');
 const provider = new HDWalletProvider(
   // This seed phrase is from a test wallet.
+  // Use environment variables when using a real wallet.
   'bachelor elder stairs salon duck follow disease local kid tube strike code',
   'https://rinkeby.infura.io/v3/cbe42a9daef64613bff25927292e1666'
 );
