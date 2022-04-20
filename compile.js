@@ -24,5 +24,3 @@ module.exports = JSON.parse(solc.compile(JSON.stringify(input)))
   .contracts[
     'inbox.sol'
   ].Inbox;
-
-console.log(JSON.parse(solc.compile(JSON.stringify(input))).contracts);
